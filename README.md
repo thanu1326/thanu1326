@@ -1,4 +1,4 @@
-# Hi there , I'm thanuja  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there , I'm Thanuja! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🙋‍♂️ About Me
 
@@ -11,10 +11,10 @@
 - ⚡ Hobbies : Coding,Cricket,Music,Riding
 - 🌱 Student at Sri Sairam Engineering College.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanu1326&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrishmarro&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanu1326&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanu1326&" alt="thanu1326" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrishmarro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrishmarro&" alt="harrishmarro" /></p>
 
 ## Tools and languages known :
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
