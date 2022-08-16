@@ -8,13 +8,13 @@
 - 👨‍💻 Coding Portfolio [http://www.skillrack.com/profile/308490/db0ae5d32e686ac0e992cbdead821f79c47d82d0](http://www.skillrack.com/profile/308490/db0ae5d32e686ac0e992cbdead821f79c47d82d0)
 
 - 📫 How to reach me **harishmacking11@gmail.com**
-- ⚡ Hobbies : Coding,Cricket,Music,Riding
+- ⚡ Hobbies : reading,cooking,travelling 
 - 🌱 Student at Sri Sairam Engineering College.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrishmarro&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanu1326&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrishmarro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrishmarro&" alt="harrishmarro" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanu1326&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanu1326&" alt="thanu1326" /></p>
 
 ## Tools and languages known :
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,7 +48,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/harish-ps-59182b201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magesh-k-556438201" height="30" width="40" /></a>
-<a href="https://instagram.com/harr_ish1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_magesh_" height="30" width="40" /></a>
+<a href="https://instagram.com/tanuja.b._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_magesh_" height="30" width="40" /></a>
 </p>
 
 
